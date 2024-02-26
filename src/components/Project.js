@@ -1,7 +1,4 @@
-import Card from 'react-bootstrap/Card';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import { Container, Row, Col,Card } from 'react-bootstrap'
 import Food from '../assets/img/Food.png'
 import weather from '../assets/img/wea.png'
 import spotify from '../assets/img/sp.png'
