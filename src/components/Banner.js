@@ -1,9 +1,7 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
 import { useState, useEffect } from 'react'
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
-import down from '../assets/img/down.png'
+
 // import { ArrowRightCircle } from 'react-bootstrap-icons';
 
 export default function Banner() {
