@@ -1,9 +1,6 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
 import { useState, useEffect } from 'react'
-
-// import { ArrowRightCircle } from 'react-bootstrap-icons';
-
 export default function Banner() {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false)
